@@ -1,5 +1,5 @@
 ---
-bio: My research interests include disturbance/diversity relationships, numerical ecology and metacommunity dynamics.
+bio: My research interests include numerical ecology, disturbance/diversity relationships and metacommunity dynamics. Pronouns he/him.
 education:
   courses:
   - course: PhD in Coastal and Oceanic Systems
