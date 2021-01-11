@@ -11,7 +11,6 @@ headless: true
 weight: 20
 
 title: "Publications"
-
 subtitle: ""
 
 content:

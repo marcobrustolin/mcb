@@ -9,7 +9,7 @@ date: "2013-05-01T00:00:00Z"
 doi: "10.1007/s10152-012-0306-3"
 featured: false
 image:
-  caption: ""
+  caption: 'Image credit: **Marco C Brustolin**'
   focal_point: ""
   preview_only: false
 projects: []
