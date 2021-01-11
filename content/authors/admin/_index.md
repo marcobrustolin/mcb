@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include disturbance/diversity relationships, numerical ecology and metacommunity dynamics
   matter.
 education:
   courses:
