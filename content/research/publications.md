@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,6 +11,7 @@ headless: true
 weight: 20
 
 title: "Publications"
+
 subtitle: ""
 
 content:
