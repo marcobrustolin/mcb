@@ -1,6 +1,5 @@
 ---
-bio: My research interests include disturbance/diversity relationships, numerical ecology and metacommunity dynamics
-  matter.
+bio: My research interests include disturbance/diversity relationships, numerical ecology and metacommunity dynamics.
 education:
   courses:
   - course: PhD in Coastal and Oceanic Systems
