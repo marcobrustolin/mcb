@@ -36,11 +36,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Ecography, 44*:1-9'
+publication: '*Ecography, 44* :1-9'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-16-03T00:00:00Z"
+publishDate: "2021-03-16T00:00:00Z"
 slides: ""
 summary: ""
 tags:
