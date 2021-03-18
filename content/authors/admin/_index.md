@@ -17,9 +17,9 @@ interests:
 - Benthic Ecology
 - Statistics/ Data Analysis
 organizations:
-- name: University of Auckland
-  url: ""
-role: Postdoctoral Research Fellow
+- name: Institute of Marine Research - Havforskningsinstituttet
+  url: https://www.hi.no/hi
+role: Research Fellow
 social:
 - icon: orcid
   icon_pack: ai
