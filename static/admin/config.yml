@@ -107,7 +107,7 @@ collections:
         widget: "list"
       - label: "Projects"
         name: "projects"
-        required: false
+        required: true
         widget: "list"
       - label: "Featured Image"
         name: "image"
