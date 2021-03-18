@@ -22,7 +22,6 @@ key species distributions.'
 
 authors:
 - admin
-- Ivan Nagelkerken
 - Rebecca V. Gladstone-Gallagher
 - Casper Kraan
 - Judi Hewitt
