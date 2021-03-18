@@ -31,7 +31,8 @@ date: "2021-03-016T00:00:00Z"
 doi: "10.1111/ecog.05440"
 featured: false
 image:
-  caption: 'Image credit: Picture taken by Roman Zajac at Kaipara harbour, New Zealand. The white rectangle encompasses 0.5 × 0.5 m'
+  caption: 'Image credit: Picture taken by Roman Zajac at Kaipara harbour, New Zealand. 
+  The white rectangle encompasses 0.5 × 0.5 m'
   focal_point: ""
   preview_only: false
 projects: []
