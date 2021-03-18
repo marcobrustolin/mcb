@@ -46,4 +46,4 @@ superuser: true
 title: Marco C Brustolin
 ---
 
-Hello! I'm a marine scientist and numerical ecologist currently based in New Zealand. Over the past few years, I have worked with experimental and descriptive ecology of marine communities, with emphasis on spatial patterns of variation in diversity and composition of seafloor communities over multiple spatial scales. I have special interest in how landscape attributes influences biodiversity macroecological patterns of distribution and how biodiversity is affected by multiple stressors.
+Hello! I'm a marine scientist and numerical ecologist currently based in Norway. Over the past few years, I have worked with experimental and descriptive ecology of marine communities, with emphasis on spatial patterns of variation in diversity and composition of seafloor communities over multiple spatial scales. I have special interest in how landscape attributes influences biodiversity macroecological patterns of distribution and how biodiversity is affected by multiple stressors.
