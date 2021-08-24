@@ -14,7 +14,7 @@ summary: Mapping marine habitats/key areas along the Norwegian coast
 tags:
 - Machine Learning
 - SDM
-- Benthic habitat mapping 
+- Habitat mapping 
 - GIS
 
 title: National program for mapping biodiversity-coast
