@@ -7,9 +7,9 @@ image:
 links:
 - icon: 
   icon_pack: fab
-  name: website
+  name: Website
   url: https://www.hi.no/hi/forskning/prosjekter/marine-grunnkart-i-kystsonen
-slides: example
+# slides: example
 summary: Mapping marine habitats/key areas along the Norwegian coast
 tags:
 - Machine learning
