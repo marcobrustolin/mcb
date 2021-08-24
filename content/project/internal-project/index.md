@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 - icon: 
-  icon_pack: fab
+  icon_pack: ai
   name: Website
   url: https://www.hi.no/hi/forskning/prosjekter/marine-grunnkart-i-kystsonen
 # slides: example
