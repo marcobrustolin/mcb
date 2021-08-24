@@ -6,6 +6,11 @@ image:
   focal_point: Smart
 summary: National program for mapping biodiversity-coast  `external_link`.
 tags:
-- Demo
+- Machine Learning
+- SDM
+- Benthic habitat mapping
+- GIS
+
 title: National program for mapping Norwegian biodiversity-coast
 ---
+
