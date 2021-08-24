@@ -14,7 +14,7 @@ summary: An example of using the in-built project page.
 tags:
 - Machine Learning
 - SDM
-- Benthic habitat models 
+- Benthic habitat mapping 
 
 title: National program for mapping Norwegian biodiversity-coast
 url_code: ""
