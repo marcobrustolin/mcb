@@ -10,13 +10,13 @@ links:
   name: Follow
   url: https://www.hi.no/hi/forskning/prosjekter/marine-grunnkart-i-kystsonen
 slides: example
-summary: An example of using the in-built project page.
+summary: Mapping marine habitats/key areas along the Norwegian coast
 tags:
 - Machine Learning
 - SDM
 - Benthic habitat mapping 
 
-title: National program for mapping Norwegian biodiversity-coast
+title: National program for mapping biodiversity-coast
 url_code: ""
 url_pdf: ""
 url_slides: ""
