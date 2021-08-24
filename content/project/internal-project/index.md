@@ -15,6 +15,7 @@ tags:
 - Machine Learning
 - SDM
 - Benthic habitat mapping 
+- GIS
 
 title: National program for mapping biodiversity-coast
 url_code: ""
