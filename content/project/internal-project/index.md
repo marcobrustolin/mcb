@@ -1,13 +1,13 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-24T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by Kartverket
   focal_point: Smart
 links:
-- icon: twitter
+- icon: 
   icon_pack: fab
-  name: Follow
+  name: website
   url: https://www.hi.no/hi/forskning/prosjekter/marine-grunnkart-i-kystsonen
 slides: example
 summary: Mapping marine habitats/key areas along the Norwegian coast
