@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-24T00:00:00Z"
 external_link: https://www.hi.no/hi/forskning/prosjekter/marine-grunnkart-i-kystsonen
 image:
   caption: Photo by Kartverket.
