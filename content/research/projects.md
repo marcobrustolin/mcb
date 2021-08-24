@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Habitat Mapping
-    tag: Habitat Mapping
+  - name: Habitat mapping
+    tag: Habitat mapping
   - name: Other
     tag: Demo
 
